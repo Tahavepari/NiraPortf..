@@ -365,6 +365,9 @@ section .button button:hover{
   text-align: center;
   margin: auto;
 }
+.contact .a{
+  text-decoration:none;
+}
 
 /* Footer CSS */
 footer{
